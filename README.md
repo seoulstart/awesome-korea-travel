@@ -18,6 +18,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [Ti
 - [Busan](#busan)
 - [Jeju](#jeju)
 - [Beyond the Big Cities](#beyond-the-big-cities)
+- [Things to Do](#things-to-do)
 - [Food](#food)
 - [Festivals and Seasons](#festivals-and-seasons)
 - [Apps and Maps](#apps-and-maps)
@@ -90,6 +91,21 @@ Transit cards and fares:
 - [Korea National Park Service](https://english.knps.or.kr/) - Official information, trail conditions, and reservations for national parks like Seoraksan and Jirisan.
 - [Korea Heritage Service](https://english.cha.go.kr/) - The official body for UNESCO World Heritage sites and cultural properties.
 - [The Korean Food Map](https://seoulstart.com/guides/korean-food-by-region-guide) - What each city and region is known for, to plan trips around food.
+
+## Things to Do
+
+Free and official first:
+
+- [National Museum of Korea](https://www.museum.go.kr/site/eng/home) - The flagship national museum, free to enter, with English galleries.
+- [National Museum of Modern and Contemporary Art (MMCA)](https://www.mmca.go.kr/eng/) - Korea's national art museum, with branches in Seoul, Gwacheon, Deoksugung, and Cheongju.
+- [Templestay](https://www.templestay.com/) - The official temple-stay program run by the Cultural Corps of Korean Buddhism; English available.
+- [Korean Folk Village](https://www.koreanfolk.co.kr/) - A living-history village of Joseon-era buildings and crafts near Suwon.
+- [Seoul Beyond the Tourist Trail](https://seoulstart.com/guides/seoul-beyond-tourist-trail-guide) - Where residents actually spend time, past the standard attractions.
+
+Booking experiences (commercial):
+
+- [Klook](https://www.klook.com/en-US/) - Widely used marketplace for tickets, passes, and day tours across Korea.
+- [Trazy](https://www.trazy.com/) - Korea-focused activity platform for tours, experiences, and event tickets.
 
 ## Food
 
