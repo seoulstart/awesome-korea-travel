@@ -2,9 +2,9 @@
 
 > วางแผนเที่ยวเกาหลี การเข้าเมืองและ K-ETA การเดินทาง เมืองต่าง ๆ อาหาร และฤดูกาล
 
-รายการนี้ดูแลโดย [Seoulstart](https://seoulstart.com) สำหรับคนที่จะไปเที่ยวเกาหลีใต้ เราวางเว็บไซต์ทางการและแหล่งข้อมูลต้นทางไว้ก่อน ส่วนคู่มือของ Seoulstart อยู่ข้าง ๆ ไม่ได้อยู่เหนือกว่า
+รายการนี้ดูแลโดย [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=th) สำหรับคนที่จะไปเที่ยวเกาหลีใต้ เราวางเว็บไซต์ทางการและแหล่งข้อมูลต้นทางไว้ก่อน ส่วนคู่มือของ Seoulstart อยู่ข้าง ๆ ไม่ได้อยู่เหนือกว่า
 
-> **หมายเหตุ**: ฉบับภาษาไทยนี้เป็นสรุปย่อของ README ภาษาอังกฤษ เนื้อหาทั้งหมดของ Seoulstart ดูได้ที่เว็บไซต์ภาษาอังกฤษ [seoulstart.com](https://seoulstart.com)
+> **หมายเหตุ**: ฉบับภาษาไทยนี้เป็นสรุปย่อของ README ภาษาอังกฤษ เนื้อหาทั้งหมดของ Seoulstart ดูได้ที่เว็บไซต์ภาษาอังกฤษ [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=th)
 
 ## เว็บไซต์ทางการที่สำคัญ
 

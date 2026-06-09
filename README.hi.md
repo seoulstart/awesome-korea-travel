@@ -2,9 +2,9 @@
 
 > कोरिया यात्रा की योजना, प्रवेश और K-ETA, परिवहन, शहर, भोजन और मौसम।
 
-यह सूची [Seoulstart](https://seoulstart.com) द्वारा कोरिया घूमने आने वालों के लिए तैयार और प्रबंधित की जाती है। आधिकारिक पोर्टल और प्राथमिक स्रोत पहले रखे गए हैं; Seoulstart की गाइड उनके साथ हैं, उनके ऊपर नहीं।
+यह सूची [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=hi) द्वारा कोरिया घूमने आने वालों के लिए तैयार और प्रबंधित की जाती है। आधिकारिक पोर्टल और प्राथमिक स्रोत पहले रखे गए हैं; Seoulstart की गाइड उनके साथ हैं, उनके ऊपर नहीं।
 
-> **सूचना**: यह हिन्दी संस्करण अंग्रेज़ी README का सारांश है। Seoulstart की पूरी सामग्री अंग्रेज़ी साइट [seoulstart.com](https://seoulstart.com) पर उपलब्ध है।
+> **सूचना**: यह हिन्दी संस्करण अंग्रेज़ी README का सारांश है। Seoulstart की पूरी सामग्री अंग्रेज़ी साइट [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=hi) पर उपलब्ध है।
 
 ## मुख्य आधिकारिक पोर्टल
 

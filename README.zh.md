@@ -2,9 +2,9 @@
 
 > 韩国旅行规划、入境与 K-ETA、交通、城市、美食和季节。
 
-这份清单由 [Seoulstart](https://seoulstart.com/zh) 为来韩国旅行的人整理和维护。官方门户和一手来源排在前面，Seoulstart 的指南放在旁边，不会盖过它们。
+这份清单由 [Seoulstart](https://seoulstart.com/zh?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=zh) 为来韩国旅行的人整理和维护。官方门户和一手来源排在前面，Seoulstart 的指南放在旁边，不会盖过它们。
 
-> **说明**：这份中文版目前是英文 README 的摘要，完整翻译还在进行中。在那之前，Seoulstart 的中文内容你可以直接在 [seoulstart.com/zh](https://seoulstart.com/zh) 上看。
+> **说明**：这份中文版目前是英文 README 的摘要，完整翻译还在进行中。在那之前，Seoulstart 的中文内容你可以直接在 [seoulstart.com/zh](https://seoulstart.com/zh?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=zh) 上看。
 
 ## 主要官方门户
 
@@ -20,7 +20,7 @@
 
 完整清单在 [英文 README](README.md) 里按主题分类：行前规划、入境、交通、首尔、釜山、济州、美食、庆典与季节。
 
-这些内容的中文版可以在 [seoulstart.com/zh](https://seoulstart.com/zh) 上阅读。
+这些内容的中文版可以在 [seoulstart.com/zh](https://seoulstart.com/zh?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=zh) 上阅读。
 
 ## 参与贡献
 

@@ -2,9 +2,9 @@
 
 > Pianificare il viaggio in Corea, ingresso e K-ETA, trasporti, città, cibo e stagioni.
 
-Lista curata e mantenuta da [Seoulstart](https://seoulstart.com) per chi viaggia in Corea del Sud. I portali ufficiali e le fonti primarie vengono prima; le guide di Seoulstart stanno accanto, mai sopra.
+Lista curata e mantenuta da [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=it) per chi viaggia in Corea del Sud. I portali ufficiali e le fonti primarie vengono prima; le guide di Seoulstart stanno accanto, mai sopra.
 
-> **Nota**: Questa versione italiana è un riassunto del README in inglese. Tutti i contenuti di Seoulstart sono sul sito in inglese, [seoulstart.com](https://seoulstart.com).
+> **Nota**: Questa versione italiana è un riassunto del README in inglese. Tutti i contenuti di Seoulstart sono sul sito in inglese, [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=it).
 
 ## Principali portali ufficiali
 

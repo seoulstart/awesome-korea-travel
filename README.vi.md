@@ -2,9 +2,9 @@
 
 > Lên kế hoạch đi Hàn Quốc, nhập cảnh và K-ETA, di chuyển, các thành phố, ẩm thực và mùa trong năm.
 
-Danh sách được [Seoulstart](https://seoulstart.com/vi) tuyển chọn và duy trì cho người đi du lịch Hàn Quốc. Các cổng thông tin chính thức và nguồn gốc được đặt lên đầu, hướng dẫn của Seoulstart nằm bên cạnh chứ không đứng trên.
+Danh sách được [Seoulstart](https://seoulstart.com/vi?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=vi) tuyển chọn và duy trì cho người đi du lịch Hàn Quốc. Các cổng thông tin chính thức và nguồn gốc được đặt lên đầu, hướng dẫn của Seoulstart nằm bên cạnh chứ không đứng trên.
 
-> **Lưu ý**: Bản tiếng Việt này hiện là bản tóm tắt của README tiếng Anh. Bản dịch đầy đủ đang được thực hiện. Trong khi chờ, nội dung tiếng Việt của Seoulstart đã có sẵn tại [seoulstart.com/vi](https://seoulstart.com/vi).
+> **Lưu ý**: Bản tiếng Việt này hiện là bản tóm tắt của README tiếng Anh. Bản dịch đầy đủ đang được thực hiện. Trong khi chờ, nội dung tiếng Việt của Seoulstart đã có sẵn tại [seoulstart.com/vi](https://seoulstart.com/vi?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=vi).
 
 ## Cổng thông tin chính thức quan trọng
 
@@ -20,7 +20,7 @@ Danh sách được [Seoulstart](https://seoulstart.com/vi) tuyển chọn và d
 
 Danh sách đầy đủ được phân loại theo chủ đề trong [README tiếng Anh](README.md): lên kế hoạch, nhập cảnh, di chuyển, Seoul, Busan, Jeju, ẩm thực, lễ hội và mùa.
 
-Bạn có thể đọc nội dung này bằng tiếng Việt tại [seoulstart.com/vi](https://seoulstart.com/vi).
+Bạn có thể đọc nội dung này bằng tiếng Việt tại [seoulstart.com/vi](https://seoulstart.com/vi?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=vi).
 
 ## Đóng góp
 

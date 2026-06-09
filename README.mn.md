@@ -2,9 +2,9 @@
 
 > Солонгос аялалын төлөвлөлт, орц ба K-ETA, тээвэр, хотууд, хоол, улирал.
 
-Энэ жагсаалтыг Солонгост аялагчдад зориулж [Seoulstart](https://seoulstart.com) эмхэтгэн хөтөлдөг. Албан ёсны портал, анхдагч эх сурвалжийг түрүүнд тавьсан.
+Энэ жагсаалтыг Солонгост аялагчдад зориулж [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=mn) эмхэтгэн хөтөлдөг. Албан ёсны портал, анхдагч эх сурвалжийг түрүүнд тавьсан.
 
-> **Тэмдэглэл**: Энэ монгол хувилбар нь англи README-н хураангуй юм. Seoulstart-ийн бүх агуулга англи сайт [seoulstart.com](https://seoulstart.com) дээр байгаа.
+> **Тэмдэглэл**: Энэ монгол хувилбар нь англи README-н хураангуй юм. Seoulstart-ийн бүх агуулга англи сайт [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=mn) дээр байгаа.
 
 ## Үндсэн албан ёсны порталууд
 

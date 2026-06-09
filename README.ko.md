@@ -2,9 +2,9 @@
 
 > 한국 여행 계획, 입국과 K-ETA, 교통, 도시, 음식, 계절 정보를 모았어요.
 
-한국을 여행하는 분들을 위해 [Seoulstart](https://seoulstart.com/ko)가 관리하는 큐레이션 자료 목록이에요. 공식 포털과 1차 출처를 먼저 두고, Seoulstart 가이드는 그 옆에 함께 둬요.
+한국을 여행하는 분들을 위해 [Seoulstart](https://seoulstart.com/ko?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ko)가 관리하는 큐레이션 자료 목록이에요. 공식 포털과 1차 출처를 먼저 두고, Seoulstart 가이드는 그 옆에 함께 둬요.
 
-> **참고**: 이 한국어판은 영문 README의 요약 안내본이에요. 전체 번역은 진행 중이고, 그동안 Seoulstart의 한국어 콘텐츠는 [seoulstart.com/ko](https://seoulstart.com/ko)에서 바로 보실 수 있어요.
+> **참고**: 이 한국어판은 영문 README의 요약 안내본이에요. 전체 번역은 진행 중이고, 그동안 Seoulstart의 한국어 콘텐츠는 [seoulstart.com/ko](https://seoulstart.com/ko?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ko)에서 바로 보실 수 있어요.
 
 ## 주요 공식 포털
 
@@ -20,7 +20,7 @@
 
 전체 큐레이션 목록은 [영문판 README](README.md)에서 확인하세요. 여행 계획, 입국, 교통, 서울·부산·제주, 음식, 축제와 계절 같은 주제로 정리되어 있어요.
 
-각 주제의 한국어 콘텐츠는 [seoulstart.com/ko](https://seoulstart.com/ko)에서 읽으실 수 있어요.
+각 주제의 한국어 콘텐츠는 [seoulstart.com/ko](https://seoulstart.com/ko?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ko)에서 읽으실 수 있어요.
 
 ## 기여하기
 

@@ -2,9 +2,9 @@
 
 > Планирование поездки в Корею, въезд и K-ETA, транспорт, города, еда и сезоны.
 
-Подборку ведёт [Seoulstart](https://seoulstart.com/ru) для тех, кто путешествует по Южной Корее. Официальные порталы и первоисточники идут первыми, а гайды Seoulstart стоят рядом с ними, а не выше.
+Подборку ведёт [Seoulstart](https://seoulstart.com/ru?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ru) для тех, кто путешествует по Южной Корее. Официальные порталы и первоисточники идут первыми, а гайды Seoulstart стоят рядом с ними, а не выше.
 
-> **Примечание**: это краткая версия английского README. Полный перевод ещё готовится. А пока материалы Seoulstart на русском уже доступны на [seoulstart.com/ru](https://seoulstart.com/ru).
+> **Примечание**: это краткая версия английского README. Полный перевод ещё готовится. А пока материалы Seoulstart на русском уже доступны на [seoulstart.com/ru](https://seoulstart.com/ru?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ru).
 
 ## Главные официальные порталы
 
@@ -20,7 +20,7 @@
 
 Полная подборка разбита по темам в [английском README](README.md): планирование, въезд, транспорт, Сеул, Пусан, Чеджу, еда, фестивали и сезоны.
 
-Эти материалы на русском можно читать на [seoulstart.com/ru](https://seoulstart.com/ru).
+Эти материалы на русском можно читать на [seoulstart.com/ru](https://seoulstart.com/ru?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ru).
 
 ## Как внести вклад
 

@@ -2,9 +2,9 @@
 
 > 韓國旅行規劃、入境與 K-ETA、交通、城市、美食和季節。
 
-這份清單由 [Seoulstart](https://seoulstart.com/zh) 為來韓國旅行的人整理與維護。官方入口網站和第一手來源排在前面，Seoulstart 的指南放在旁邊，不會蓋過它們。
+這份清單由 [Seoulstart](https://seoulstart.com/zh?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=zh-hant) 為來韓國旅行的人整理與維護。官方入口網站和第一手來源排在前面，Seoulstart 的指南放在旁邊，不會蓋過它們。
 
-> **說明**：這份繁體中文版目前是英文 README 的摘要。Seoulstart 的中文內容（簡體）你可以直接在 [seoulstart.com/zh](https://seoulstart.com/zh) 上看，完整資訊則在英文版。
+> **說明**：這份繁體中文版目前是英文 README 的摘要。Seoulstart 的中文內容（簡體）你可以直接在 [seoulstart.com/zh](https://seoulstart.com/zh?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=zh-hant) 上看，完整資訊則在英文版。
 
 ## 主要官方入口網站
 

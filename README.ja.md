@@ -2,9 +2,9 @@
 
 > 韓国旅行の計画、入国とK-ETA、交通、都市、グルメ、季節の情報をまとめました。
 
-韓国を旅行する人のために [Seoulstart](https://seoulstart.com) が管理するキュレーションリストです。公式ポータルと一次情報を先頭に置き、Seoulstartのガイドはその隣に並べています。
+韓国を旅行する人のために [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ja) が管理するキュレーションリストです。公式ポータルと一次情報を先頭に置き、Seoulstartのガイドはその隣に並べています。
 
-> **メモ**: この日本語版は英語版READMEの要約です。完全な翻訳は準備中です。それまでの間、Seoulstartの全ガイドは英語版サイト [seoulstart.com](https://seoulstart.com) でご覧いただけます。
+> **メモ**: この日本語版は英語版READMEの要約です。完全な翻訳は準備中です。それまでの間、Seoulstartの全ガイドは英語版サイト [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ja) でご覧いただけます。
 
 ## 主要な公式ポータル
 
@@ -20,7 +20,7 @@
 
 完全なキュレーションリストは [英語版README](README.md) にあります。旅行の計画、入国、交通、ソウル・釜山（プサン）・済州（チェジュ）、グルメ、祭りと季節などのトピックで整理されています。
 
-各トピックの内容は [seoulstart.com](https://seoulstart.com) で読めます。
+各トピックの内容は [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ja) で読めます。
 
 ## 貢献する
 

@@ -2,9 +2,9 @@
 
 > Merencanakan perjalanan ke Korea, masuk negara dan K-ETA, transportasi, kota, kuliner, dan musim.
 
-Daftar ini dikurasi dan dikelola oleh [Seoulstart](https://seoulstart.com) untuk orang yang bepergian ke Korea Selatan. Portal resmi dan sumber utama diletakkan di depan, panduan Seoulstart ada di sampingnya, bukan di atasnya.
+Daftar ini dikurasi dan dikelola oleh [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=id) untuk orang yang bepergian ke Korea Selatan. Portal resmi dan sumber utama diletakkan di depan, panduan Seoulstart ada di sampingnya, bukan di atasnya.
 
-> **Catatan**: Versi Bahasa Indonesia ini adalah ringkasan dari README bahasa Inggris. Seluruh konten Seoulstart bisa kamu baca di situs berbahasa Inggris [seoulstart.com](https://seoulstart.com).
+> **Catatan**: Versi Bahasa Indonesia ini adalah ringkasan dari README bahasa Inggris. Seluruh konten Seoulstart bisa kamu baca di situs berbahasa Inggris [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=id).
 
 ## Portal resmi penting
 

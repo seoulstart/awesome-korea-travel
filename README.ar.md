@@ -2,9 +2,9 @@
 
 > تخطيط رحلتك إلى كوريا، الدخول وتصريح K-ETA، التنقل، المدن، الطعام والمواسم.
 
-قائمة مختارة تحت إشراف [Seoulstart](https://seoulstart.com) لمن يسافرون إلى كوريا الجنوبية. تأتي البوابات الرسمية والمصادر الأساسية أولاً، وتأتي أدلة Seoulstart إلى جانبها لا فوقها.
+قائمة مختارة تحت إشراف [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ar) لمن يسافرون إلى كوريا الجنوبية. تأتي البوابات الرسمية والمصادر الأساسية أولاً، وتأتي أدلة Seoulstart إلى جانبها لا فوقها.
 
-> **ملاحظة**: هذه النسخة العربية ملخّص لملف README بالإنجليزية. كل محتوى Seoulstart متوفّر على الموقع الإنجليزي، [seoulstart.com](https://seoulstart.com).
+> **ملاحظة**: هذه النسخة العربية ملخّص لملف README بالإنجليزية. كل محتوى Seoulstart متوفّر على الموقع الإنجليزي، [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=ar).
 
 ## أهم البوابات الرسمية
 

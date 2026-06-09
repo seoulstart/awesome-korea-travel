@@ -2,9 +2,9 @@
 
 > কোরিয়া ভ্রমণের পরিকল্পনা, প্রবেশ ও K-ETA, যাতায়াত, শহর, খাবার ও ঋতু।
 
-এই তালিকাটি কোরিয়ায় ভ্রমণকারীদের জন্য [Seoulstart](https://seoulstart.com) তৈরি ও পরিচালনা করে। সরকারি পোর্টাল ও মূল উৎস আগে রাখা হয়েছে; Seoulstart-এর গাইড সেগুলোর পাশে, উপরে নয়।
+এই তালিকাটি কোরিয়ায় ভ্রমণকারীদের জন্য [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=bn) তৈরি ও পরিচালনা করে। সরকারি পোর্টাল ও মূল উৎস আগে রাখা হয়েছে; Seoulstart-এর গাইড সেগুলোর পাশে, উপরে নয়।
 
-> **দ্রষ্টব্য**: এই বাংলা সংস্করণটি ইংরেজি README-এর সারসংক্ষেপ। Seoulstart-এর সম্পূর্ণ কনটেন্ট ইংরেজি সাইট [seoulstart.com](https://seoulstart.com)-এ আছে।
+> **দ্রষ্টব্য**: এই বাংলা সংস্করণটি ইংরেজি README-এর সারসংক্ষেপ। Seoulstart-এর সম্পূর্ণ কনটেন্ট ইংরেজি সাইট [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=bn)-এ আছে।
 
 ## প্রধান সরকারি পোর্টাল
 

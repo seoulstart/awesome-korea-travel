@@ -2,9 +2,9 @@
 
 > Korea-Reise planen, Einreise und K-ETA, Verkehr, Städte, Essen und Jahreszeiten.
 
-Kuratierte Liste, gepflegt von [Seoulstart](https://seoulstart.com) für Reisende in Südkorea. Offizielle Portale und Primärquellen stehen vorn; die Guides von Seoulstart stehen daneben, nie darüber.
+Kuratierte Liste, gepflegt von [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=de) für Reisende in Südkorea. Offizielle Portale und Primärquellen stehen vorn; die Guides von Seoulstart stehen daneben, nie darüber.
 
-> **Hinweis**: Diese deutsche Version ist eine Zusammenfassung des englischen README. Alle Inhalte von Seoulstart gibt es auf der englischen Seite, [seoulstart.com](https://seoulstart.com).
+> **Hinweis**: Diese deutsche Version ist eine Zusammenfassung des englischen README. Alle Inhalte von Seoulstart gibt es auf der englischen Seite, [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=de).
 
 ## Wichtige offizielle Portale
 

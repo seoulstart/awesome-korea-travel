@@ -2,9 +2,9 @@
 
 > Koreyaga sayohatni rejalashtirish, kirish va K-ETA, transport, shaharlar, taom va fasllar.
 
-Bu ro'yxat Koreyaga sayohat qiluvchilar uchun [Seoulstart](https://seoulstart.com) tomonidan tuzilgan va yuritiladi. Rasmiy portallar va birlamchi manbalar oldinda; Seoulstart qo'llanmalari ularning yonida, ustida emas.
+Bu ro'yxat Koreyaga sayohat qiluvchilar uchun [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=uz) tomonidan tuzilgan va yuritiladi. Rasmiy portallar va birlamchi manbalar oldinda; Seoulstart qo'llanmalari ularning yonida, ustida emas.
 
-> **Eslatma**: Bu o'zbekcha versiya inglizcha README'ning qisqacha bayoni. Seoulstart'ning to'liq kontenti inglizcha saytda, [seoulstart.com](https://seoulstart.com).
+> **Eslatma**: Bu o'zbekcha versiya inglizcha README'ning qisqacha bayoni. Seoulstart'ning to'liq kontenti inglizcha saytda, [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-korea-travel&utm_content=uz).
 
 ## Asosiy rasmiy portallar
 
