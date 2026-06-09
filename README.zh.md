@@ -32,6 +32,6 @@
 
 ## 选择语言
 
-[English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · 简体中文 · [繁體中文](README.zh-Hant.md) · [ไทย](README.th.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md)
+[English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · 简体中文 · [繁體中文](README.zh-Hant.md) · [हिन्दी](README.hi.md) · [Español](README.es.md) · [العربية](README.ar.md) · [Français](README.fr.md) · [বাংলা](README.bn.md) · [Português](README.pt.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [မြန်မာဘာသာ](README.my.md) · [Монгол](README.mn.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Oʻzbekcha](README.uz.md) · [Русский](README.ru.md)
 
 如果你是要搬到韩国生活，可以看看面向外国居民的姊妹清单 [Awesome Living in Korea](https://github.com/seoulstart/awesome-living-in-korea#readme)。

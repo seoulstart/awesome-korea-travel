@@ -6,7 +6,7 @@ A curated list of official portals, transit tools, booking platforms, and reside
 
 **Who this list serves:** first-time visitors to Korea, repeat travelers, digital nomads, food travelers, K-content fans planning a trip, and residents showing friends and family around.
 
-Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [ไทย](README.th.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md)
+Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [हिन्दी](README.hi.md) · [Español](README.es.md) · [العربية](README.ar.md) · [Français](README.fr.md) · [বাংলা](README.bn.md) · [Português](README.pt.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [မြန်မာဘာသာ](README.my.md) · [Монгол](README.mn.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Oʻzbekcha](README.uz.md) · [Русский](README.ru.md)
 
 ## Contents
 
