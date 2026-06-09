@@ -100,7 +100,7 @@ Free and official first:
 - [National Museum of Modern and Contemporary Art (MMCA)](https://www.mmca.go.kr/eng/) - Korea's national art museum, with branches in Seoul, Gwacheon, Deoksugung, and Cheongju.
 - [Templestay](https://www.templestay.com/) - The official temple-stay program run by the Cultural Corps of Korean Buddhism; English available.
 - [Korean Folk Village](https://www.koreanfolk.co.kr/) - A living-history village of Joseon-era buildings and crafts near Suwon.
-- [Seoul Beyond the Tourist Trail](https://seoulstart.com/guides/seoul-beyond-tourist-trail-guide) - Where residents actually spend time, past the standard attractions.
+- [National Folk Museum of Korea](https://www.nfm.go.kr/english/) - Free museum of everyday Korean life and traditions, on the Gyeongbokgung grounds.
 
 Booking experiences (commercial):
 
