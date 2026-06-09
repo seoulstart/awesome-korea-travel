@@ -32,6 +32,6 @@
 
 ## Выбрать язык
 
-[English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · [Tiếng Việt](README.vi.md) · Русский · [中文](README.zh.md)
+[English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [ไทย](README.th.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · Русский
 
 Если вы переезжаете в Корею, посмотрите родственный список для иностранных резидентов: [Awesome Living in Korea](https://github.com/seoulstart/awesome-living-in-korea#readme).

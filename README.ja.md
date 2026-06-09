@@ -32,6 +32,6 @@
 
 ## 言語を選ぶ
 
-[English](README.md) · [한국어](README.ko.md) · 日本語 · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · [中文](README.zh.md)
+[English](README.md) · [한국어](README.ko.md) · 日本語 · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [ไทย](README.th.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md)
 
 韓国に住む予定の方は、外国人居住者向けの姉妹リスト [Awesome Living in Korea](https://github.com/seoulstart/awesome-living-in-korea#readme) もご覧ください。

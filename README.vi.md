@@ -32,6 +32,6 @@ Danh sách này được phát hành theo [CC BY 4.0](LICENSE). Khi sử dụng 
 
 ## Chọn ngôn ngữ
 
-[English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · Tiếng Việt · [Русский](README.ru.md) · [中文](README.zh.md)
+[English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [ไทย](README.th.md) · [Bahasa Indonesia](README.id.md) · Tiếng Việt · [Русский](README.ru.md)
 
 Nếu bạn chuyển đến sống ở Hàn Quốc, hãy xem danh sách song hành dành cho cư dân nước ngoài: [Awesome Living in Korea](https://github.com/seoulstart/awesome-living-in-korea#readme).
