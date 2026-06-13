@@ -145,4 +145,7 @@ All commercial, but essential on the ground:
 - [Seoulstart in Russian (Русский)](https://seoulstart.com/ru)
 - [Seoulstart in Chinese (中文)](https://seoulstart.com/zh)
 
-Moving to Korea instead of visiting? See [Awesome Living in Korea](https://github.com/seoulstart/awesome-living-in-korea#readme), the companion list for foreign residents.
+**Related Seoulstart lists:**
+
+- [Awesome Living in Korea](https://github.com/seoulstart/awesome-living-in-korea#readme) - Moving to Korea instead of visiting: the companion list for foreign residents.
+- [Awesome Build for Korea](https://github.com/seoulstart/awesome-build-for-korea#readme) - For companies and developers building a product for the Korean market.
