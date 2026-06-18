@@ -32,7 +32,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [Imagine Your Korea](https://www.youtube.com/@imagineyourkorea) - KTO's official video channel for destinations and seasonal campaigns.
 - [Korea Meteorological Administration (KMA)](https://www.kma.go.kr/eng/index.jsp) - Official weather and the air-quality and typhoon forecasts that shape trip timing.
 - [The Best Time to Travel in Korea](https://seoulstart.com/guides/best-time-to-visit-korea-guide) - Season-by-season breakdown of weather, crowds, cherry blossoms, foliage, and cost.
-- [Seoulstart Explore](https://seoulstart.com/explore) - Resident-framed guides to food, festivals, day trips, and neighborhoods across Korea.
+- [Seoulstart Travel](https://seoulstart.com/travel) - Resident-framed travel hub: what to eat, where to go, what is open during holidays, festivals by season, day trips from Seoul, and neighborhood guides.
 
 ## Entry, K-ETA, and Visas
 
@@ -109,6 +109,7 @@ Booking experiences (commercial):
 
 ## Food
 
+- [Heritage Restaurants in Korea (백년가게)](https://seoulstart.com/heritage-restaurants) - A searchable map and directory of 661 officially certified restaurants serving the same food for 30 or more years. Filter by dish, see them on a map, and open them in your map app.
 - [How to Find Good Restaurants in Korea](https://seoulstart.com/guides/finding-good-restaurants-korea-guide) - How to read the signals when the best ones are in Korean, and how to use Naver and Kakao reviews.
 - [Korean BBQ: How to Order and Eat It](https://seoulstart.com/guides/korean-bbq-guide) - Cuts, sides, and the table etiquette that trips up first-timers.
 - [Halal Food in Korea](https://seoulstart.com/guides/halal-food-korea-guide) - Certified restaurants, prayer rooms, and groceries for Muslim travelers.
