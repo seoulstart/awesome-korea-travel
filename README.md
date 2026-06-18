@@ -46,7 +46,9 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 
 - [Global Tax Free](https://www.global-taxfree.com/) - One of the official tax-refund operators; refund kiosks at airports and downtown.
 - [Wise](https://wise.com/) - International transfers and a travel card at mid-market exchange rates.
+- [WOWPASS](https://www.wowpass.io/) - All-in-one prepaid card and currency-exchange machines aimed at visitors; it tops up T-money and works in places that reject foreign cards.
 - [KT roaming and tourist SIM](https://globalroaming.kt.com/main.asp?lang=en) - Major Korean carrier's official prepaid SIM and eSIM options for visitors.
+- [Korea SIM Cards and Phone Plans](https://seoulstart.com/guides/korea-sim-card-guide) - Prepaid SIM and eSIM options, where to buy them, and which plan fits a short trip versus a longer stay.
 
 ## Getting Around
 
@@ -62,6 +64,7 @@ Air and airports:
 
 - [Incheon Airport (ICN)](https://www.airport.kr/ap/en/index.do) - Korea's main international gateway: transit, AREX train, and arrival information.
 - [Gimpo Airport (GMP)](https://www.airport.co.kr/gimpoeng/index.do) - Seoul's domestic and short-haul international airport.
+- [AREX (Airport Railroad)](https://www.arex.or.kr/) - The official train from Incheon Airport into central Seoul, with express and all-stop options.
 
 Transit cards and fares:
 
@@ -101,6 +104,8 @@ Free and official first:
 - [Templestay](https://www.templestay.com/) - The official temple-stay program run by the Cultural Corps of Korean Buddhism; English available.
 - [Korean Folk Village](https://www.koreanfolk.co.kr/) - A living-history village of Joseon-era buildings and crafts near Suwon.
 - [National Folk Museum of Korea](https://www.nfm.go.kr/english/) - Free museum of everyday Korean life and traditions, on the Gyeongbokgung grounds.
+- [Korean Spa and Jjimjilbang (찜질방)](https://seoulstart.com/guides/korean-spa-jjimjilbang) - How a Korean bathhouse and sauna works, what to bring, and the etiquette that catches first-timers.
+- [Korean Drinking Culture](https://seoulstart.com/guides/korean-drinking-culture) - Soju etiquette, work dinners (회식), and how to join in or politely opt out.
 
 Booking experiences (commercial):
 
@@ -112,6 +117,7 @@ Booking experiences (commercial):
 - [Heritage Restaurants in Korea (백년가게)](https://seoulstart.com/heritage-restaurants) - A searchable map and directory of 661 officially certified restaurants serving the same food for 30 or more years. Filter by dish, see them on a map, and open them in your map app.
 - [How to Find Good Restaurants in Korea](https://seoulstart.com/guides/finding-good-restaurants-korea-guide) - How to read the signals when the best ones are in Korean, and how to use Naver and Kakao reviews.
 - [Korean BBQ: How to Order and Eat It](https://seoulstart.com/guides/korean-bbq-guide) - Cuts, sides, and the table etiquette that trips up first-timers.
+- [Korean BBQ Etiquette](https://seoulstart.com/guides/korean-bbq-etiquette) - Three table rules that cover most of what trips up first-timers at a grill table.
 - [Halal Food in Korea](https://seoulstart.com/guides/halal-food-korea-guide) - Certified restaurants, prayer rooms, and groceries for Muslim travelers.
 - [Vegetarian and Vegan Food in Korea](https://seoulstart.com/guides/vegetarian-food-korea-guide) - Temple cuisine, safe dishes, and phrases to order without meat or fish stock.
 - [Korea Muslim Federation](https://www.koreaislam.org/en/local-muslim-info/) - The official mosque directory and halal-certifying body in Korea.
@@ -130,6 +136,7 @@ All commercial, but essential on the ground:
 - [Papago](https://papago.naver.com/) - AI translator tuned for Korean, with camera and conversation modes.
 - [Kakao T](https://www.kakaocorp.com/page/service/service/KakaoT?lang=en) - Taxi-hailing without speaking Korean.
 - [KakaoTalk](https://www.kakaocorp.com/page/service/service/kakaotalk?lang=en) - The messaging app many guesthouses and tour operators use to reach you.
+- [KakaoTalk Culture Decoded](https://seoulstart.com/guides/kakaotalk-culture) - The unwritten rules of the app guesthouses and tour operators will use to reach you.
 - [Subway Korea](https://www.smartsubway.co.kr/) - Offline-friendly metro maps and route planning for Seoul, Busan, and other cities.
 
 ## Help and Safety
@@ -142,6 +149,7 @@ All commercial, but essential on the ground:
 ## Multilingual Editions
 
 - [Seoulstart in Korean (한국어)](https://seoulstart.com/ko)
+- [Seoulstart in Japanese (日本語)](https://seoulstart.com/ja)
 - [Seoulstart in Vietnamese (Tiếng Việt)](https://seoulstart.com/vi)
 - [Seoulstart in Russian (Русский)](https://seoulstart.com/ru)
 - [Seoulstart in Chinese (中文)](https://seoulstart.com/zh)
