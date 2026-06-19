@@ -106,6 +106,7 @@ Free and official first:
 - [National Folk Museum of Korea](https://www.nfm.go.kr/english/) - Free museum of everyday Korean life and traditions, on the Gyeongbokgung grounds.
 - [Korean Spa and Jjimjilbang (찜질방)](https://seoulstart.com/guides/korean-spa-jjimjilbang) - How a Korean bathhouse and sauna works, what to bring, and the etiquette that catches first-timers.
 - [Korean Drinking Culture](https://seoulstart.com/guides/korean-drinking-culture) - Soju etiquette, work dinners (회식), and how to join in or politely opt out.
+- [Korea, Decoded](https://seoulstart.com/korea-decoded) - Plain-language explainers of the culture behind daily life: K-pop, etiquette, chaebol, and the threads that connect them, for travelers who want context.
 
 Booking experiences (commercial):
 
@@ -116,6 +117,7 @@ Booking experiences (commercial):
 
 - [Heritage Restaurants in Korea (백년가게)](https://seoulstart.com/heritage-restaurants) - A searchable map and directory of 661 officially certified restaurants serving the same food for 30 or more years. Filter by dish, see them on a map, and open them in your map app.
 - [How to Find Good Restaurants in Korea](https://seoulstart.com/guides/finding-good-restaurants-korea-guide) - How to read the signals when the best ones are in Korean, and how to use Naver and Kakao reviews.
+- [Korean Restaurant Types Explained](https://seoulstart.com/guides/korean-restaurant-types) - How to read restaurant signs before walking in: venue types from 분식집 to 한정식, price tiers, break-time hours, and the no-tipping rule.
 - [Korean BBQ: How to Order and Eat It](https://seoulstart.com/guides/korean-bbq-guide) - Cuts, sides, and the table etiquette that trips up first-timers.
 - [Korean BBQ Etiquette](https://seoulstart.com/guides/korean-bbq-etiquette) - Three table rules that cover most of what trips up first-timers at a grill table.
 - [Halal Food in Korea](https://seoulstart.com/guides/halal-food-korea-guide) - Certified restaurants, prayer rooms, and groceries for Muslim travelers.
@@ -133,6 +135,7 @@ All commercial, but essential on the ground:
 
 - [Naver Map](https://map.naver.com/) - Mapping and transit with the best Korea coverage; the default for directions.
 - [Kakao Map](https://map.kakao.com/) - Strong alternative with detailed local-business and transit information.
+- [How Naver and Kakao Work](https://seoulstart.com/guides/naver-vs-kakao) - The duopoly behind the apps above: the two companies that run Korea's maps, search, messaging, taxis, and payments, and how to use each from day one.
 - [Papago](https://papago.naver.com/) - AI translator tuned for Korean, with camera and conversation modes.
 - [Kakao T](https://www.kakaocorp.com/page/service/service/KakaoT?lang=en) - Taxi-hailing without speaking Korean.
 - [KakaoTalk](https://www.kakaocorp.com/page/service/service/kakaotalk?lang=en) - The messaging app many guesthouses and tour operators use to reach you.
