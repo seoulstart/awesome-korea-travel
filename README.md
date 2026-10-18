@@ -95,6 +95,12 @@ Transit cards and fares:
 - [Korea Heritage Service](https://english.cha.go.kr/) - The official body for UNESCO World Heritage sites and cultural properties.
 - [The Korean Food Map](https://seoulstart.com/guides/korean-food-by-region-guide) - What each city and region is known for, to plan trips around food.
 
+### Wetlands and birdwatching
+
+- [Suncheonman Bay Wetland (VisitKorea)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=96951) - Official visitor information for a South Korean coastal wetland known for migratory birds.
+- [Sorae Marsh Ecological Park (VisitKorea)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=80678) - Official visitor information for a former salt-production area now used for wetland nature education.
+- [KoreAves Bird Evidence Explorer](https://koreaves.com/gis/) - Free English/Korean atlas for checking source-linked bird records by South Korean region before a nature trip, not a live sightings or population-count map.
+
 ## Things to Do
 
 Free and official first:
