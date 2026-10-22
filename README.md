@@ -76,6 +76,7 @@ Transit cards and fares:
 - [Visit Seoul (official)](https://english.visitseoul.net/) - Seoul Metropolitan Government's official travel portal.
 - [Royal Palaces of Korea](https://www.royalpalace.go.kr/) - Official information and ticketing for Gyeongbokgung and the other royal palaces.
 - [Seoul Metro Cyber Station](http://www.seoulmetro.co.kr/en/cyberStation.do) - Official subway map, fares, and station information.
+- [Tips for Seoul](https://tipsforseoul.com/en/) - Free station-by-station subway locker availability, a map of Seoul's public toilets with opening hours, and open pharmacies, in five languages.
 - [Seoul Beyond the Tourist Trail](https://seoulstart.com/guides/seoul-beyond-tourist-trail-guide) - Where residents actually go, past the standard stops.
 - [Seoulstart Neighborhood Guides](https://seoulstart.com/neighborhoods) - District-by-district guides with transit access and what each area is good for.
 
