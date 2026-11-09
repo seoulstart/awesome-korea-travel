@@ -78,6 +78,7 @@ Transit cards and fares:
 - [Seoul Metro Cyber Station](http://www.seoulmetro.co.kr/en/cyberStation.do) - Official subway map, fares, and station information.
 - [Seoul Beyond the Tourist Trail](https://seoulstart.com/guides/seoul-beyond-tourist-trail-guide) - Where residents actually go, past the standard stops.
 - [Seoulstart Neighborhood Guides](https://seoulstart.com/neighborhoods) - District-by-district guides with transit access and what each area is good for.
+- [bobobhq](https://bobobhq.com/) - Pick a Seoul place and a date: how to get there, what's on nearby, and how busy it is, with each fact sourced and dated.
 
 ## Busan
 
