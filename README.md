@@ -36,9 +36,9 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 
 ## Entry, K-ETA, and Visas
 
-- [K-ETA (official)](https://www.k-eta.go.kr/) - The official electronic travel authorization for visa-waiver nationals. Many scam copycats exist; this is the real one.
+- [K-ETA (official)](https://www.k-eta.go.kr/) - The official electronic travel authorization for visa-waiver nationals. Citizens of the temporarily exempt countries do not need one for arrivals through 31 December 2027 (Ministry of Justice notice, 23 November 2026). Many scam copycats exist; this is the real one.
 - [Korea Visa Portal (visa.go.kr)](https://www.visa.go.kr/) - Official Ministry of Justice visa information and e-visa applications. Beware copycat sites.
-- [Q-CODE (quarantine entry)](https://travelhealth.kdca.go.kr/travel/cd/qcoInfo.do) - The official health declaration portal for arrival, when one is in effect.
+- [Q-CODE (quarantine entry)](https://travelhealth.kdca.go.kr/travel/cd/qcoInfo.do) - The official health declaration for arrivals who visited a priority quarantine area, or another listed area and have symptoms such as fever. Open from 7 days before arrival.
 - [Korea Customs Service](https://www.customs.go.kr/english/main.do) - Duty-free allowances, declaration rules, and what you can and cannot bring in.
 - [Ministry of Foreign Affairs](https://www.mofa.go.kr/eng/index.do) - Consular instructions for travelers who need a visa before arrival.
 
@@ -123,7 +123,7 @@ Booking experiences (commercial):
 
 ## Food
 
-- [Heritage Restaurants in Korea (백년가게)](https://seoulstart.com/heritage-restaurants) - A searchable map and directory of 661 officially certified restaurants serving the same food for 30 or more years. Filter by dish, see them on a map, and open them in your map app.
+- [Heritage Restaurants in Korea (백년가게)](https://seoulstart.com/heritage-restaurants) - A searchable map of government-certified restaurants in business for 30 years or more, plus the picks from Korea Post's yearly staff dining guide. Filter by dish, see them on a map, and open them in your map app.
 - [How to Find Good Restaurants in Korea](https://seoulstart.com/guides/finding-good-restaurants-korea-guide) - How to read the signals when the best ones are in Korean, and how to use Naver and Kakao reviews.
 - [Korean Restaurant Types Explained](https://seoulstart.com/guides/korean-restaurant-types) - How to read restaurant signs before walking in: venue types from 분식집 to 한정식, price tiers, break-time hours, and the no-tipping rule.
 - [Korean BBQ: How to Order and Eat It](https://seoulstart.com/guides/korean-bbq-guide) - Cuts, sides, and the table etiquette that trips up first-timers.
