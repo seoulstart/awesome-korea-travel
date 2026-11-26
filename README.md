@@ -97,12 +97,8 @@ Transit cards and fares:
 - [Korea National Park Service reservations](https://reservation.knps.or.kr/foreigner/main.do) - Official English booking for shelters and campsites in national parks like Seoraksan and Jirisan.
 - [Korea Heritage Service](https://english.khs.go.kr/) - The official body for UNESCO World Heritage sites and cultural properties.
 - [The Korean Food Map](https://seoulstart.com/guides/korean-food-by-region-guide) - What each city and region is known for, to plan trips around food.
-
-### Wetlands and birdwatching
-
-- [Suncheonman Bay Wetland (VisitKorea)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=96951) - Official visitor information for a South Korean coastal wetland known for migratory birds.
-- [Sorae Marsh Ecological Park (VisitKorea)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=80678) - Official visitor information for a former salt-production area now used for wetland nature education.
-- [KoreAves Bird Evidence Explorer](https://koreaves.com/gis/) - Free English/Korean atlas for checking source-linked bird records by South Korean region before a nature trip, not a live sightings or population-count map.
+- [Suncheonman Bay Wetland (VisitKorea)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=96951) - Coastal wetland and reed fields in Suncheon, known for migratory birds.
+- [Sorae Marsh Ecological Park (VisitKorea)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=80678) - Former salt-production area near Incheon, now a wetland park with walking trails.
 
 ## Things to Do
 
