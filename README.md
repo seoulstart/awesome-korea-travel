@@ -45,6 +45,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 ## Money and Connectivity
 
 - [Global Tax Free](https://www.global-taxfree.com/) - One of the official tax-refund operators; refund kiosks at airports and downtown.
+- [Korea Tax Refund Guide and Calculator (Kankoku.asia)](https://kankoku.asia/articles/kankoku-tax-refund/) - Refund amounts by purchase price and the Incheon Airport steps, explained from the statutory text. [ja]
 - [Wise](https://wise.com/) - International transfers and a travel card at mid-market exchange rates.
 - [WOWPASS](https://www.wowpass.io/) - All-in-one prepaid card and currency-exchange machines aimed at visitors; it tops up T-money and works in places that reject foreign cards.
 - [KT roaming and tourist SIM](https://globalroaming.kt.com/main.asp?lang=en) - Major Korean carrier's official prepaid SIM and eSIM options for visitors.
