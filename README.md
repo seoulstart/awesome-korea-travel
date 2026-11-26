@@ -37,6 +37,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 ## Entry, K-ETA, and Visas
 
 - [K-ETA (official)](https://www.k-eta.go.kr/) - The official electronic travel authorization for visa-waiver nationals. Citizens of the temporarily exempt countries do not need one for arrivals through 31 December 2027 (Ministry of Justice notice, 23 November 2026). Many scam copycats exist; this is the real one.
+- [e-Arrival Card (official)](https://www.e-arrivalcard.go.kr/portal/main/index.do?locale=EN) - The free online arrival card, open from 3 days before you land. Not needed if you hold a valid K-ETA.
 - [Korea Visa Portal (visa.go.kr)](https://www.visa.go.kr/) - Official Ministry of Justice visa information and e-visa applications. Beware copycat sites.
 - [Q-CODE (quarantine entry)](https://travelhealth.kdca.go.kr/travel/cd/qcoInfo.do) - The official health declaration for arrivals who visited a priority quarantine area, or another listed area and have symptoms such as fever. Open from 7 days before arrival.
 - [Korea Customs Service](https://www.customs.go.kr/english/main.do) - Duty-free allowances, declaration rules, and what you can and cannot bring in.
