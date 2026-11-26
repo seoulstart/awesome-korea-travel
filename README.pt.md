@@ -11,9 +11,9 @@ Lista curada e mantida pela [Seoulstart](https://seoulstart.com/?utm_source=gith
 - [VisitKorea](https://english.visitkorea.or.kr/) - Site oficial de turismo: atrações, roteiros, transporte e eventos.
 - [Korea.net](https://www.korea.net/) - Cultura, política e história explicadas em 10 idiomas.
 - [K-ETA](https://www.k-eta.go.kr/) - Autorização de viagem eletrônica oficial para países isentos de visto. Há muitos sites falsos; este é o verdadeiro.
-- [Korail](https://www.letskorail.com/) - Reserva oficial de trens KTX e de todo o país.
+- [Korail](https://www.korail.com/global/eng/main) - Reserva oficial de trens KTX e de todo o país.
 - [SRT](https://etk.srail.kr/) - Trens de alta velocidade saindo da estação de Suseo.
-- [Aeroporto de Incheon](https://www.airport.kr/ap/en/index.do) - O principal aeroporto internacional da Coreia.
+- [Aeroporto de Incheon](https://www.airport.kr/ap_en/index.do) - O principal aeroporto internacional da Coreia.
 - [T-money](https://www.t-money.co.kr/) - Cartão recarregável para metrô, ônibus e táxi.
 
 ## Por tema

@@ -11,9 +11,9 @@
 - [VisitKorea（韓国観光公社）](https://english.visitkorea.or.kr/) - 観光地、モデルコース、交通、イベントを扱う公式観光サイト。
 - [Korea.net](https://www.korea.net/) - 文化、政策、歴史の解説を10言語で。
 - [K-ETA](https://www.k-eta.go.kr/) - ビザ免除国の旅行者向け公式電子渡航認証。偽サイトが多いので注意。
-- [KORAIL](https://www.letskorail.com/) - KTXと全国の鉄道の公式予約。
+- [KORAIL](https://www.korail.com/global/jpn/main) - KTXと全国の鉄道の公式予約。
 - [SRT](https://etk.srail.kr/) - 水西（スソ）駅発の高速鉄道。
-- [仁川（インチョン）空港](https://www.airport.kr/ap/en/index.do) - 韓国の主要国際空港の案内。
+- [仁川（インチョン）空港](https://www.airport.kr/ap_en/index.do) - 韓国の主要国際空港の案内。
 - [T-money](https://www.t-money.co.kr/) - 地下鉄、バス、タクシーで使えるチャージ式交通カード。
 
 ## トピック別

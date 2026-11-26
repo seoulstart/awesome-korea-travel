@@ -11,9 +11,9 @@
 - [VisitKorea](https://english.visitkorea.or.kr/)
 - [Korea.net](https://www.korea.net/)
 - [K-ETA](https://www.k-eta.go.kr/)
-- [Korail](https://www.letskorail.com/)
+- [Korail](https://www.korail.com/global/eng/main)
 - [SRT](https://etk.srail.kr/)
-- [အင်ချွန် လေဆိပ်](https://www.airport.kr/ap/en/index.do)
+- [အင်ချွန် လေဆိပ်](https://www.airport.kr/ap_en/index.do)
 - [T-money](https://www.t-money.co.kr/)
 
 ## ခေါင်းစဉ်အလိုက်

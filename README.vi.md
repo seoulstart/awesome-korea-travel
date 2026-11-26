@@ -11,9 +11,9 @@ Danh sách được [Seoulstart](https://seoulstart.com/vi?utm_source=github&utm
 - [VisitKorea (Tổng cục Du lịch Hàn Quốc)](https://english.visitkorea.or.kr/) - trang du lịch chính thức: điểm tham quan, lịch trình, di chuyển, sự kiện.
 - [Korea.net](https://www.korea.net/) - giải thích về văn hóa, chính sách, lịch sử bằng 10 ngôn ngữ.
 - [K-ETA](https://www.k-eta.go.kr/) - giấy phép nhập cảnh điện tử chính thức cho công dân được miễn thị thực. Có nhiều trang giả mạo, đây là trang thật.
-- [Korail](https://www.letskorail.com/) - đặt vé chính thức tàu KTX và tàu hỏa toàn quốc.
+- [Korail](https://www.korail.com/global/eng/main) - đặt vé chính thức tàu KTX và tàu hỏa toàn quốc.
 - [SRT](https://etk.srail.kr/) - tàu cao tốc xuất phát từ ga Suseo.
-- [Sân bay Incheon](https://www.airport.kr/ap/en/index.do) - thông tin về sân bay quốc tế chính của Hàn Quốc.
+- [Sân bay Incheon](https://www.airport.kr/ap_en/index.do) - thông tin về sân bay quốc tế chính của Hàn Quốc.
 - [T-money](https://www.t-money.co.kr/) - thẻ nạp tiền dùng cho tàu điện ngầm, xe buýt và taxi.
 
 ## Theo chủ đề

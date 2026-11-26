@@ -29,8 +29,8 @@ Also available in: [頃滉淡鞏碷(README.ko.md) 路 [鏃ユ湰瑾瀅(README.ja.md) 路 [绠
 
 - [VisitKorea (Korea Tourism Organization)](https://english.visitkorea.or.kr/) - The official national tourism site: attractions, itineraries, transport, event calendars, and the 24/7 1330 travel hotline. The primary source.
 - [Korea.net](https://www.korea.net/) - Official government site for culture, policy, and history explainers in 10 languages.
-- [Imagine Your Korea](https://www.youtube.com/@imagineyourkorea) - KTO's official video channel for destinations and seasonal campaigns.
-- [Korea Meteorological Administration (KMA)](https://www.kma.go.kr/eng/index.jsp) - Official weather and the air-quality and typhoon forecasts that shape trip timing.
+- [VISITKOREA on YouTube](https://www.youtube.com/@VISITKOREA) - KTO's official video channel for destinations and seasonal campaigns.
+- [Korea Meteorological Administration (KMA)](https://www.kma.go.kr/neng/index.do) - Official weather and the air-quality and typhoon forecasts that shape trip timing.
 - [The Best Time to Travel in Korea](https://seoulstart.com/guides/best-time-to-visit-korea-guide) - Season-by-season breakdown of weather, crowds, cherry blossoms, foliage, and cost.
 - [Seoulstart Travel](https://seoulstart.com/travel) - Resident-framed travel hub: what to eat, where to go, what is open during holidays, festivals by season, day trips from Seoul, and neighborhood guides.
 
@@ -38,7 +38,7 @@ Also available in: [頃滉淡鞏碷(README.ko.md) 路 [鏃ユ湰瑾瀅(README.ja.md) 路 [绠
 
 - [K-ETA (official)](https://www.k-eta.go.kr/) - The official electronic travel authorization for visa-waiver nationals. Many scam copycats exist; this is the real one.
 - [Korea Visa Portal (visa.go.kr)](https://www.visa.go.kr/) - Official Ministry of Justice visa information and e-visa applications. Beware copycat sites.
-- [Q-CODE (quarantine entry)](https://cov19ent.kdca.go.kr/) - The official health declaration portal for arrival, when one is in effect.
+- [Q-CODE (quarantine entry)](https://travelhealth.kdca.go.kr/travel/cd/qcoInfo.do) - The official health declaration portal for arrival, when one is in effect.
 - [Korea Customs Service](https://www.customs.go.kr/english/main.do) - Duty-free allowances, declaration rules, and what you can and cannot bring in.
 - [Ministry of Foreign Affairs](https://www.mofa.go.kr/eng/index.do) - Consular instructions for travelers who need a visa before arrival.
 
@@ -48,22 +48,22 @@ Also available in: [頃滉淡鞏碷(README.ko.md) 路 [鏃ユ湰瑾瀅(README.ja.md) 路 [绠
 - [Korea Tax Refund Guide and Calculator (Kankoku.asia)](https://kankoku.asia/articles/kankoku-tax-refund/) - Refund amounts by purchase price and the Incheon Airport steps, explained from the statutory text. [ja]
 - [Wise](https://wise.com/) - International transfers and a travel card at mid-market exchange rates.
 - [WOWPASS](https://www.wowpass.io/) - All-in-one prepaid card and currency-exchange machines aimed at visitors; it tops up T-money and works in places that reject foreign cards.
-- [KT roaming and tourist SIM](https://globalroaming.kt.com/main.asp?lang=en) - Major Korean carrier's official prepaid SIM and eSIM options for visitors.
+- [KT roaming and tourist SIM](https://globalroaming.kt.com/main?lang=en) - Major Korean carrier's official prepaid SIM and eSIM options for visitors.
 - [Korea SIM Cards and Phone Plans](https://seoulstart.com/guides/korea-sim-card-guide) - Prepaid SIM and eSIM options, where to buy them, and which plan fits a short trip versus a longer stay.
 
 ## Getting Around
 
 National rail and bus:
 
-- [Korail](https://www.letskorail.com/) - Official booking for KTX, ITX, Saemaeul, and Mugunghwa trains nationwide.
+- [Korail](https://www.korail.com/global/eng/main) - Official booking for KTX, ITX, Saemaeul, and Mugunghwa trains nationwide.
 - [SRT](https://etk.srail.kr/) - High-speed rail from Suseo Station (south Seoul) to Busan, Gwangju, and the southeast.
-- [Korea Rail Pass (KR PASS)](https://www.letskorail.com/ebizbf/EbizBfKrPassAbout.do) - The official rail pass for foreign tourists, with consecutive and flexible options.
+- [KORAIL PASS](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) - The official rail pass for foreign visitors: pick 2 to 5 travel days within 10 days on KTX and other Korail trains.
 - [Kobus](https://www.kobus.co.kr/) - Official express-bus reservations connecting major cities.
 - [Bustago](https://www.bustago.or.kr/) - Intercity-bus booking for routes Kobus does not cover.
 
 Air and airports:
 
-- [Incheon Airport (ICN)](https://www.airport.kr/ap/en/index.do) - Korea's main international gateway: transit, AREX train, and arrival information.
+- [Incheon Airport (ICN)](https://www.airport.kr/ap_en/index.do) - Korea's main international gateway: transit, AREX train, and arrival information.
 - [Gimpo Airport (GMP)](https://www.airport.co.kr/gimpoeng/index.do) - Seoul's domestic and short-haul international airport.
 - [AREX (Airport Railroad)](https://www.arex.or.kr/) - The official train from Incheon Airport into central Seoul, with express and all-stop options.
 
@@ -75,7 +75,7 @@ Transit cards and fares:
 ## Seoul
 
 - [Visit Seoul (official)](https://english.visitseoul.net/) - Seoul Metropolitan Government's official travel portal.
-- [Royal Palaces of Korea](https://www.royalpalace.go.kr/) - Official information and ticketing for Gyeongbokgung and the other royal palaces.
+- [Royal Palaces and Tombs Center](https://royal.khs.go.kr/ENG/main/index.do) - Official hours, admission, and programs for Gyeongbokgung and the other royal palaces.
 - [Seoul Metro Cyber Station](http://www.seoulmetro.co.kr/en/cyberStation.do) - Official subway map, fares, and station information.
 - [Tips for Seoul](https://tipsforseoul.com/en/) - Free station-by-station subway locker availability, a map of Seoul's public toilets with opening hours, and open pharmacies, in five languages.
 - [Seoul Beyond the Tourist Trail](https://seoulstart.com/guides/seoul-beyond-tourist-trail-guide) - Where residents actually go, past the standard stops.
@@ -89,12 +89,12 @@ Transit cards and fares:
 ## Jeju
 
 - [Visit Jeju (official)](https://www.visitjeju.net/en) - Jeju Tourism Organization's official guide to the island: trails, beaches, and oreum.
-- [Jeju Olle Trail](https://www.jejuolle.org/?lang=en) - The official network of coastal walking routes around the island.
+- [Jeju Olle Trail](https://www.jejuolle.org/trail_en) - The official network of coastal walking routes around the island.
 
 ## Beyond the Big Cities
 
-- [Korea National Park Service](https://english.knps.or.kr/) - Official information, trail conditions, and reservations for national parks like Seoraksan and Jirisan.
-- [Korea Heritage Service](https://english.cha.go.kr/) - The official body for UNESCO World Heritage sites and cultural properties.
+- [Korea National Park Service reservations](https://reservation.knps.or.kr/foreigner/main.do) - Official English booking for shelters and campsites in national parks like Seoraksan and Jirisan.
+- [Korea Heritage Service](https://english.khs.go.kr/) - The official body for UNESCO World Heritage sites and cultural properties.
 - [The Korean Food Map](https://seoulstart.com/guides/korean-food-by-region-guide) - What each city and region is known for, to plan trips around food.
 
 ### Wetlands and birdwatching
@@ -107,7 +107,7 @@ Transit cards and fares:
 
 Free and official first:
 
-- [National Museum of Korea](https://www.museum.go.kr/site/eng/home) - The flagship national museum, free to enter, with English galleries.
+- [National Museum of Korea](https://www.museum.go.kr/ENG/main/index.do) - The flagship national museum, free to enter, with English galleries.
 - [National Museum of Modern and Contemporary Art (MMCA)](https://www.mmca.go.kr/eng/) - Korea's national art museum, with branches in Seoul, Gwacheon, Deoksugung, and Cheongju.
 - [Templestay](https://www.templestay.com/) - The official temple-stay program run by the Cultural Corps of Korean Buddhism; English available.
 - [Korean Folk Village](https://www.koreanfolk.co.kr/) - A living-history village of Joseon-era buildings and crafts near Suwon.
@@ -148,12 +148,11 @@ All commercial, but essential on the ground:
 - [Kakao T](https://www.kakaocorp.com/page/service/service/KakaoT?lang=en) - Taxi-hailing without speaking Korean.
 - [KakaoTalk](https://www.kakaocorp.com/page/service/service/kakaotalk?lang=en) - The messaging app many guesthouses and tour operators use to reach you.
 - [KakaoTalk Culture Decoded](https://seoulstart.com/guides/kakaotalk-culture) - The unwritten rules of the app guesthouses and tour operators will use to reach you.
-- [Subway Korea](https://www.smartsubway.co.kr/) - Offline-friendly metro maps and route planning for Seoul, Busan, and other cities.
 
 ## Help and Safety
 
-- [Emergency numbers: 112 (police) and 119 (fire, ambulance)](https://www.119.go.kr/Center119/eng/index.do) - The two emergency lines, with interpretation available. For travel help and interpretation that can bridge you to them, dial the 1330 KTO hotline.
-- [National Emergency Medical Center (E-Gen)](https://www.e-gen.or.kr/english/main.do) - Real-time open-ER and pharmacy finder; the 1339 line gives medical guidance in English.
+- [Emergency numbers: 112 (police) and 119 (fire, ambulance)](https://www.nfa.go.kr/eng/) - The two emergency lines, with interpretation available. For travel help and interpretation that can bridge you to them, dial the 1330 KTO hotline.
+- [National Emergency Medical Center (E-Gen)](https://www.e-gen.or.kr/egen/egenmain.do) - Finder for nearby emergency rooms, hospitals, and pharmacies with opening hours, in Korean. For medical advice by phone, call 119.
 - [120 Dasan Call Center](https://english.seoul.go.kr/) - Seoul city services and information with foreign-language consultation. Dial 120.
 - [Lost and Found (LOST112)](https://www.lost112.go.kr/) - The national police lost-property system.
 

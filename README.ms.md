@@ -11,9 +11,9 @@ Senarai pilihan yang diselenggara oleh [Seoulstart](https://seoulstart.com/?utm_
 - [VisitKorea](https://english.visitkorea.or.kr/) - Laman web pelancongan rasmi: tempat menarik, itinerari, pengangkutan dan acara.
 - [Korea.net](https://www.korea.net/) - Budaya, dasar dan sejarah diterangkan dalam 10 bahasa.
 - [K-ETA](https://www.k-eta.go.kr/) - Kebenaran perjalanan elektronik rasmi untuk negara bebas visa. Banyak laman palsu; ini yang sah.
-- [Korail](https://www.letskorail.com/) - Tempahan rasmi kereta api KTX dan seluruh negara.
+- [Korail](https://www.korail.com/global/eng/main) - Tempahan rasmi kereta api KTX dan seluruh negara.
 - [SRT](https://etk.srail.kr/) - Kereta api laju dari Stesen Suseo.
-- [Lapangan Terbang Incheon](https://www.airport.kr/ap/en/index.do) - Lapangan terbang antarabangsa utama Korea.
+- [Lapangan Terbang Incheon](https://www.airport.kr/ap_en/index.do) - Lapangan terbang antarabangsa utama Korea.
 - [T-money](https://www.t-money.co.kr/) - Kad boleh tambah nilai untuk subway, bas dan teksi.
 
 ## Mengikut topik

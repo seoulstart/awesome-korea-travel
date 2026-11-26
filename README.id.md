@@ -11,9 +11,9 @@ Daftar ini dikurasi dan dikelola oleh [Seoulstart](https://seoulstart.com/?utm_s
 - [VisitKorea (Korea Tourism Organization)](https://english.visitkorea.or.kr/) - Situs wisata resmi: tempat wisata, itinerary, transportasi, dan acara.
 - [Korea.net](https://www.korea.net/) - Penjelasan soal budaya, kebijakan, dan sejarah dalam 10 bahasa.
 - [K-ETA](https://www.k-eta.go.kr/) - Izin perjalanan elektronik resmi untuk warga negara bebas visa. Banyak situs palsu, ini yang asli.
-- [Korail](https://www.letskorail.com/) - Pemesanan resmi kereta KTX dan kereta di seluruh negeri.
+- [Korail](https://www.korail.com/global/eng/main) - Pemesanan resmi kereta KTX dan kereta di seluruh negeri.
 - [SRT](https://etk.srail.kr/) - Kereta cepat dari Stasiun Suseo.
-- [Bandara Incheon](https://www.airport.kr/ap/en/index.do) - Informasi bandara internasional utama Korea.
+- [Bandara Incheon](https://www.airport.kr/ap_en/index.do) - Informasi bandara internasional utama Korea.
 - [T-money](https://www.t-money.co.kr/) - Kartu isi ulang untuk subway, bus, dan taksi.
 
 ## Berdasarkan topik

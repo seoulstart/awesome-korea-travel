@@ -11,9 +11,9 @@
 - [한국관광공사 (VisitKorea)](https://english.visitkorea.or.kr/) - 명소, 일정, 교통, 행사를 다루는 공식 관광 사이트.
 - [코리아넷 (Korea.net)](https://www.korea.net/) - 문화, 정책, 역사 설명을 10개 언어로.
 - [K-ETA](https://www.k-eta.go.kr/) - 무비자 입국 대상 국민을 위한 공식 전자여행허가. 가짜 사이트가 많으니 주의하세요.
-- [코레일 (Korail)](https://www.letskorail.com/) - KTX와 전국 열차 공식 예매.
+- [코레일 (Korail)](https://www.korail.com/) - KTX와 전국 열차 공식 예매.
 - [SRT](https://etk.srail.kr/) - 수서역에서 출발하는 고속열차.
-- [인천공항](https://www.airport.kr/ap/en/index.do) - 한국의 대표 국제공항 안내.
+- [인천공항](https://www.airport.kr/ap_ko/index.do) - 한국의 대표 국제공항 안내.
 - [티머니 (T-money)](https://www.t-money.co.kr/) - 지하철, 버스, 택시에서 쓰는 충전식 교통카드.
 
 ## 주제별 분류

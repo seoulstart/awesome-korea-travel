@@ -11,9 +11,9 @@ Bu ro'yxat Koreyaga sayohat qiluvchilar uchun [Seoulstart](https://seoulstart.co
 - [VisitKorea](https://english.visitkorea.or.kr/)
 - [Korea.net](https://www.korea.net/)
 - [K-ETA](https://www.k-eta.go.kr/)
-- [Korail](https://www.letskorail.com/)
+- [Korail](https://www.korail.com/global/eng/main)
 - [SRT](https://etk.srail.kr/)
-- [Incheon aeroporti](https://www.airport.kr/ap/en/index.do)
+- [Incheon aeroporti](https://www.airport.kr/ap_en/index.do)
 - [T-money](https://www.t-money.co.kr/)
 
 ## Mavzu bo'yicha

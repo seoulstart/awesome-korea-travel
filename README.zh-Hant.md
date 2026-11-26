@@ -11,9 +11,9 @@
 - [VisitKorea（韓國觀光公社）](https://english.visitkorea.or.kr/) - 官方旅遊網站：景點、行程、交通和活動。
 - [Korea.net](https://www.korea.net/) - 用 10 種語言介紹文化、政策和歷史。
 - [K-ETA](https://www.k-eta.go.kr/) - 給免簽國家旅客的官方電子旅行許可。仿冒網站很多，這個才是真的。
-- [Korail（韓國鐵道）](https://www.letskorail.com/) - KTX 和全國列車的官方訂票。
+- [Korail（韓國鐵道）](https://www.korail.com/global/eng/main) - KTX 和全國列車的官方訂票。
 - [SRT](https://etk.srail.kr/) - 從水西站出發的高速列車。
-- [仁川機場](https://www.airport.kr/ap/en/index.do) - 韓國主要國際機場的資訊。
+- [仁川機場](https://www.airport.kr/ap_en/index.do) - 韓國主要國際機場的資訊。
 - [T-money](https://www.t-money.co.kr/) - 地鐵、公車和計程車都能用的儲值交通卡。
 
 ## 按主題

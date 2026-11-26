@@ -11,9 +11,9 @@
 - [VisitKorea](https://english.visitkorea.or.kr/) - الموقع الرسمي للسياحة: المعالم والمسارات والتنقل والفعاليات.
 - [Korea.net](https://www.korea.net/) - شرح الثقافة والسياسة والتاريخ بعشر لغات.
 - [K-ETA](https://www.k-eta.go.kr/) - تصريح السفر الإلكتروني الرسمي لمواطني الدول المعفاة من التأشيرة. هناك مواقع مزيّفة كثيرة؛ هذا هو الموقع الحقيقي.
-- [Korail](https://www.letskorail.com/) - الحجز الرسمي لقطارات KTX والقطارات في كل البلاد.
+- [Korail](https://www.korail.com/global/eng/main) - الحجز الرسمي لقطارات KTX والقطارات في كل البلاد.
 - [SRT](https://etk.srail.kr/) - قطارات فائقة السرعة من محطة سوسو.
-- [مطار إنتشون](https://www.airport.kr/ap/en/index.do) - المطار الدولي الرئيسي في كوريا.
+- [مطار إنتشون](https://www.airport.kr/ap_en/index.do) - المطار الدولي الرئيسي في كوريا.
 - [T-money](https://www.t-money.co.kr/) - بطاقة قابلة للشحن للمترو والحافلات وسيارات الأجرة.
 
 ## حسب الموضوع
